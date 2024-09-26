@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Karan-Gondal-Portfolio/static/css/main.2d3da0b6.css",
-    "main.js": "/Karan-Gondal-Portfolio/static/js/main.6ac5fc20.js",
+    "main.js": "/Karan-Gondal-Portfolio/static/js/main.20345dd3.js",
     "static/js/415.3258d3a7.chunk.js": "/Karan-Gondal-Portfolio/static/js/415.3258d3a7.chunk.js",
     "static/js/787.3efd760b.chunk.js": "/Karan-Gondal-Portfolio/static/js/787.3efd760b.chunk.js",
+    "static/media/karangondal_resume.pdf": "/Karan-Gondal-Portfolio/static/media/karangondal_resume.0f9cd5718b3c1cfacdb1.pdf",
     "static/media/WeatherApp.png": "/Karan-Gondal-Portfolio/static/media/WeatherApp.fb36e0c1c7c42b160823.png",
     "static/media/logo.png": "/Karan-Gondal-Portfolio/static/media/logo.8d572ab2bb90a5fbefc3.png",
-    "static/media/karangondal_resume.pdf": "/Karan-Gondal-Portfolio/static/media/karangondal_resume.5070c4f9e9df07baf33e.pdf",
     "static/media/home-main.svg": "/Karan-Gondal-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Karan-Gondal-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/TextConverter.png": "/Karan-Gondal-Portfolio/static/media/TextConverter.7fc0214899a754720b5e.png",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/Karan-Gondal-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Karan-Gondal-Portfolio/index.html",
     "main.2d3da0b6.css.map": "/Karan-Gondal-Portfolio/static/css/main.2d3da0b6.css.map",
-    "main.6ac5fc20.js.map": "/Karan-Gondal-Portfolio/static/js/main.6ac5fc20.js.map",
+    "main.20345dd3.js.map": "/Karan-Gondal-Portfolio/static/js/main.20345dd3.js.map",
     "415.3258d3a7.chunk.js.map": "/Karan-Gondal-Portfolio/static/js/415.3258d3a7.chunk.js.map",
     "787.3efd760b.chunk.js.map": "/Karan-Gondal-Portfolio/static/js/787.3efd760b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d3da0b6.css",
-    "static/js/main.6ac5fc20.js"
+    "static/js/main.20345dd3.js"
   ]
 }
